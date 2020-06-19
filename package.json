@@ -20,11 +20,11 @@
   "homepage": "https://github.com/atillabaspinar/node_training#readme",
   "devDependencies": {
     "@types/node": "^14.0.13",
+    "@types/express": "^4.17.6",
     "tslint": "^6.1.2",
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "@types/express": "^4.17.6",
     "express": "^4.17.1"
   }
 }
